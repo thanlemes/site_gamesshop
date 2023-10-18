@@ -60,6 +60,7 @@ section .container {
 
 .brand-list img {
     height: 24px;
+    padding-right: 8px;
 }
 
 .brand-list li {
